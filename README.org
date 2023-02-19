@@ -79,3 +79,45 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 6.3
 - [ ] Exercise 6.4
 - [ ] Exercise 6.5
+** Chapter 7 [0/18]
+- [ ] Exercise 7.1
+- [ ] Exercise 7.2
+- [ ] Exercise 7.3
+- [ ] Exercise 7.4
+- [ ] Exercise 7.5
+- [ ] Exercise 7.6
+- [ ] Exercise 7.7
+- [ ] Exercise 7.8
+- [ ] Exercise 7.9
+- [ ] Exercise 7.10
+- [ ] Exercise 7.11
+- [ ] Exercise 7.12
+- [ ] Exercise 7.13
+- [ ] Exercise 7.14
+- [ ] Exercise 7.15
+- [ ] Exercise 7.16
+- [ ] Exercise 7.17
+- [ ] Exercise 7.18
+** Chapter 8 [0/15]
+- [ ] Exercise 8.1
+- [ ] Exercise 8.2
+- [ ] Exercise 8.3
+- [ ] Exercise 8.4
+- [ ] Exercise 8.5
+- [ ] Exercise 8.6
+- [ ] Exercise 8.7
+- [ ] Exercise 8.8
+- [ ] Exercise 8.9
+- [ ] Exercise 8.10
+- [ ] Exercise 8.11
+- [ ] Exercise 8.12
+- [ ] Exercise 8.13
+- [ ] Exercise 8.14
+- [ ] Exercise 8.15
+** Chapter 9 [0/6]
+- [ ] Exercise 9.1
+- [ ] Exercise 9.2
+- [ ] Exercise 9.3
+- [ ] Exercise 9.4
+- [ ] Exercise 9.5
+- [ ] Exercise 9.6
