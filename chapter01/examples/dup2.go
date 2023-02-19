@@ -35,9 +35,3 @@ func countLines(f *os.File, counts map[string]int) {
 	}
 
 }
-func countCharacters(s string) {
-	var count int
-	for range s {
-		count++
-	}
-}
