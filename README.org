@@ -18,3 +18,9 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 1.10
 - [ ] Exercise 1.11
 - [X] Exercise 1.12
+** Chapter 2 [1/5]
+- [X] Exercise 2.1
+- [ ] Exercise 2.2
+- [ ] Exercise 2.3
+- [ ] Exercise 2.4
+- [ ] Exercise 2.5
