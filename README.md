@@ -1,24 +1,25 @@
 
 # Table of Contents
 
-1.  [Solution checklists](#orgad0977d)
-    1.  [Chapter 1 <code>[5/12]</code>](#org2277f59)
-    2.  [Chapter 2 <code>[1/5]</code>](#org94d7d17)
-    3.  [Chapter 3 <code>[1/13]</code>](#orgbb8d9cd)
-    4.  [Chapter 4 <code>[0/14]</code>](#org2289d43)
-    5.  [Chapter 5 <code>[0/19]</code>](#org0a939eb)
+1.  [Solution checklists](#org16a7856)
+    1.  [Chapter 1 <code>[5/12]</code>](#orge3ee1d8)
+    2.  [Chapter 2 <code>[1/5]</code>](#org5766ac1)
+    3.  [Chapter 3 <code>[1/13]</code>](#orgb612892)
+    4.  [Chapter 4 <code>[0/14]</code>](#org4ce41dd)
+    5.  [Chapter 5 <code>[0/19]</code>](#org76f0634)
+    6.  [Chapter 6 <code>[0/5]</code>](#org3d27154)
 
 This repository contains examples and exercises solutions from [&ldquo;The Go Programming Language&rdquo; book](https://www.gopl.io/), written by Brian W. Kernighan and Alan A. A. Donovan. Some challenging exercises have their own directories instead of a single file.
 
 -   ****Naming of files: exercise1-1.go = Exercise 1.1****
 
 
-<a id="orgad0977d"></a>
+<a id="org16a7856"></a>
 
 # Solution checklists
 
 
-<a id="org2277f59"></a>
+<a id="orge3ee1d8"></a>
 
 ## Chapter 1 <code>[5/12]</code>
 
@@ -36,7 +37,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [X] Exercise 1.12
 
 
-<a id="org94d7d17"></a>
+<a id="org5766ac1"></a>
 
 ## Chapter 2 <code>[1/5]</code>
 
@@ -47,7 +48,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 2.5
 
 
-<a id="orgbb8d9cd"></a>
+<a id="orgb612892"></a>
 
 ## Chapter 3 <code>[1/13]</code>
 
@@ -66,7 +67,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 3.13
 
 
-<a id="org2289d43"></a>
+<a id="org4ce41dd"></a>
 
 ## Chapter 4 <code>[0/14]</code>
 
@@ -86,7 +87,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 4.14
 
 
-<a id="org0a939eb"></a>
+<a id="org76f0634"></a>
 
 ## Chapter 5 <code>[0/19]</code>
 
@@ -109,4 +110,15 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 5.17
 -   [ ] Exercise 5.18
 -   [ ] Exercise 5.19
+
+
+<a id="org3d27154"></a>
+
+## Chapter 6 <code>[0/5]</code>
+
+-   [ ] Exercise 6.1
+-   [ ] Exercise 6.2
+-   [ ] Exercise 6.3
+-   [ ] Exercise 6.4
+-   [ ] Exercise 6.5
 
