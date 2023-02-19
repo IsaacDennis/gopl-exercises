@@ -1,22 +1,23 @@
 
 # Table of Contents
 
-1.  [Solution checklists](#orgd02a5f5)
-    1.  [Chapter 1 <code>[5/12]</code>](#orge12a2dc)
-    2.  [Chapter 2 <code>[1/5]</code>](#org3cda3c8)
-    3.  [Chapter 3 <code>[1/13]</code>](#org4246a1a)
+1.  [Solution checklists](#org8004149)
+    1.  [Chapter 1 <code>[5/12]</code>](#org1ba73c7)
+    2.  [Chapter 2 <code>[1/5]</code>](#org20f4208)
+    3.  [Chapter 3 <code>[1/13]</code>](#org189d578)
+    4.  [Chapter 4 <code>[0/14]</code>](#org656572c)
 
 This repository contains examples and exercises solutions from [&ldquo;The Go Programming Language&rdquo; book](https://www.gopl.io/), written by Brian W. Kernighan and Alan A. A. Donovan. Some challenging exercises have their own directories instead of a single file.
 
 -   ****Naming of files: exercise1-1.go = Exercise 1.1****
 
 
-<a id="orgd02a5f5"></a>
+<a id="org8004149"></a>
 
 # Solution checklists
 
 
-<a id="orge12a2dc"></a>
+<a id="org1ba73c7"></a>
 
 ## Chapter 1 <code>[5/12]</code>
 
@@ -34,7 +35,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [X] Exercise 1.12
 
 
-<a id="org3cda3c8"></a>
+<a id="org20f4208"></a>
 
 ## Chapter 2 <code>[1/5]</code>
 
@@ -45,7 +46,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 2.5
 
 
-<a id="org4246a1a"></a>
+<a id="org189d578"></a>
 
 ## Chapter 3 <code>[1/13]</code>
 
@@ -62,4 +63,24 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 3.11
 -   [ ] Exercise 3.12
 -   [ ] Exercise 3.13
+
+
+<a id="org656572c"></a>
+
+## Chapter 4 <code>[0/14]</code>
+
+-   [ ] Exercise 4.1
+-   [ ] Exercise 4.2
+-   [ ] Exercise 4.3
+-   [ ] Exercise 4.4
+-   [ ] Exercise 4.5
+-   [ ] Exercise 4.6
+-   [ ] Exercise 4.7
+-   [ ] Exercise 4.8
+-   [ ] Exercise 4.9
+-   [ ] Exercise 4.10
+-   [ ] Exercise 4.11
+-   [ ] Exercise 4.12
+-   [ ] Exercise 4.13
+-   [ ] Exercise 4.14
 
