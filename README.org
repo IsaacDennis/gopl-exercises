@@ -5,11 +5,11 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - **Naming of files: exercise1-1.go = Exercise 1.1**
 
 * Solution checklists
-** Chapter 1 [5/12]
+** Chapter 1 [6/12]
 - [X] Exercise 1.1
 - [X] Exercise 1.2
 - [ ] Exercise 1.3
-- [ ] Exercise 1.4
+- [X] Exercise 1.4
 - [ ] Exercise 1.5
 - [ ] Exercise 1.6
 - [X] Exercise 1.7
