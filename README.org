@@ -1,6 +1,6 @@
 # This file is used to generate README.md through Org-mode C-c C-e m m
 
-This repository contains examples and exercises solutions from [[https://www.gopl.io/]["The Go Programming Language" book]], written by Brian W. Kernighan and Alan A. A. Donovan. Some challenging exercises have their own directories instead of a single file.
+This repository contains examples and exercises solutions from [[https://www.gopl.io/]["The Go Programming Language" book]], written by Brian W. Kernighan and Alan A. A. Donovan. Some challenging/interesting exercises have their own directories instead of a single file.
 
 - **Naming of files: exercise1-1.go = Exercise 1.1**
 
