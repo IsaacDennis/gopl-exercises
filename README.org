@@ -24,7 +24,7 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 2.3
 - [ ] Exercise 2.4
 - [ ] Exercise 2.5
-** Chapter 3 [4/13]
+** Chapter 3 [5/13]
 - [X] Exercise 3.1
 - [ ] Exercise 3.2
 - [ ] Exercise 3.3
@@ -36,7 +36,7 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 3.9
 - [X] Exercise 3.10
 - [X] Exercise 3.11
-- [ ] Exercise 3.12
+- [X] Exercise 3.12
 - [ ] Exercise 3.13
 ** Chapter 4 [0/14]
 - [ ] Exercise 4.1
