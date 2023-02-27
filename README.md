@@ -1,32 +1,32 @@
 
 # Table of Contents
 
-1.  [Solution checklists](#orgf94276f)
-    1.  [Chapter 1 <code>[8/12]</code>](#org80a2e9c)
-    2.  [Chapter 2 <code>[2/5]</code>](#org3a1d678)
-    3.  [Chapter 3 <code>[3/13]</code>](#org3b9b157)
-    4.  [Chapter 4 <code>[0/14]</code>](#org8974d71)
-    5.  [Chapter 5 <code>[0/19]</code>](#org5832fab)
-    6.  [Chapter 6 <code>[0/5]</code>](#org035ec3f)
-    7.  [Chapter 7 <code>[0/18]</code>](#org989a8f5)
-    8.  [Chapter 8 <code>[0/15]</code>](#orgda150fe)
-    9.  [Chapter 9 <code>[0/6]</code>](#org6a9ae67)
-    10. [Chapter 10 <code>[0/4]</code>](#org9091506)
-    11. [Chapter 11 <code>[0/7]</code>](#org066fbe7)
-    12. [Chapter 12 <code>[0/13]</code>](#org5f43080)
-    13. [Chapter 13 <code>[0/4]</code>](#orgbbc3dea)
+1.  [Solution checklists](#orgab1b996)
+    1.  [Chapter 1 <code>[8/12]</code>](#org73ad3b1)
+    2.  [Chapter 2 <code>[2/5]</code>](#orgc8b9f76)
+    3.  [Chapter 3 <code>[4/13]</code>](#orgea0b736)
+    4.  [Chapter 4 <code>[0/14]</code>](#org663057b)
+    5.  [Chapter 5 <code>[0/19]</code>](#orge3dffc4)
+    6.  [Chapter 6 <code>[0/5]</code>](#org32464f5)
+    7.  [Chapter 7 <code>[0/18]</code>](#org12e0d42)
+    8.  [Chapter 8 <code>[0/15]</code>](#org4a50327)
+    9.  [Chapter 9 <code>[0/6]</code>](#org964a2bc)
+    10. [Chapter 10 <code>[0/4]</code>](#org4f6c737)
+    11. [Chapter 11 <code>[0/7]</code>](#org3d601ab)
+    12. [Chapter 12 <code>[0/13]</code>](#orgd97144d)
+    13. [Chapter 13 <code>[0/4]</code>](#org7f9a661)
 
 This repository contains examples and exercises solutions from [&ldquo;The Go Programming Language&rdquo; book](https://www.gopl.io/), written by Brian W. Kernighan and Alan A. A. Donovan. Some challenging/interesting exercises have their own directories instead of a single file.
 
 -   ****Naming of files: exercise1-1.go = Exercise 1.1****
 
 
-<a id="orgf94276f"></a>
+<a id="orgab1b996"></a>
 
 # Solution checklists
 
 
-<a id="org80a2e9c"></a>
+<a id="org73ad3b1"></a>
 
 ## Chapter 1 <code>[8/12]</code>
 
@@ -44,7 +44,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [X] Exercise 1.12
 
 
-<a id="org3a1d678"></a>
+<a id="orgc8b9f76"></a>
 
 ## Chapter 2 <code>[2/5]</code>
 
@@ -55,9 +55,9 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 2.5
 
 
-<a id="org3b9b157"></a>
+<a id="orgea0b736"></a>
 
-## Chapter 3 <code>[3/13]</code>
+## Chapter 3 <code>[4/13]</code>
 
 -   [X] Exercise 3.1
 -   [ ] Exercise 3.2
@@ -69,12 +69,12 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 3.8
 -   [ ] Exercise 3.9
 -   [X] Exercise 3.10
--   [ ] Exercise 3.11
+-   [X] Exercise 3.11
 -   [ ] Exercise 3.12
 -   [ ] Exercise 3.13
 
 
-<a id="org8974d71"></a>
+<a id="org663057b"></a>
 
 ## Chapter 4 <code>[0/14]</code>
 
@@ -94,7 +94,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 4.14
 
 
-<a id="org5832fab"></a>
+<a id="orge3dffc4"></a>
 
 ## Chapter 5 <code>[0/19]</code>
 
@@ -119,7 +119,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 5.19
 
 
-<a id="org035ec3f"></a>
+<a id="org32464f5"></a>
 
 ## Chapter 6 <code>[0/5]</code>
 
@@ -130,7 +130,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 6.5
 
 
-<a id="org989a8f5"></a>
+<a id="org12e0d42"></a>
 
 ## Chapter 7 <code>[0/18]</code>
 
@@ -154,7 +154,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 7.18
 
 
-<a id="orgda150fe"></a>
+<a id="org4a50327"></a>
 
 ## Chapter 8 <code>[0/15]</code>
 
@@ -175,7 +175,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 8.15
 
 
-<a id="org6a9ae67"></a>
+<a id="org964a2bc"></a>
 
 ## Chapter 9 <code>[0/6]</code>
 
@@ -187,7 +187,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 9.6
 
 
-<a id="org9091506"></a>
+<a id="org4f6c737"></a>
 
 ## Chapter 10 <code>[0/4]</code>
 
@@ -197,7 +197,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 10.4
 
 
-<a id="org066fbe7"></a>
+<a id="org3d601ab"></a>
 
 ## Chapter 11 <code>[0/7]</code>
 
@@ -210,7 +210,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 11.7
 
 
-<a id="org5f43080"></a>
+<a id="orgd97144d"></a>
 
 ## Chapter 12 <code>[0/13]</code>
 
@@ -229,7 +229,7 @@ This repository contains examples and exercises solutions from [&ldquo;The Go Pr
 -   [ ] Exercise 12.13
 
 
-<a id="orgbbc3dea"></a>
+<a id="org7f9a661"></a>
 
 ## Chapter 13 <code>[0/4]</code>
 
