@@ -18,12 +18,12 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 1.10
 - [ ] Exercise 1.11
 - [X] Exercise 1.12
-** Chapter 2 [3/5]
+** Chapter 2 [4/5]
 - [X] Exercise 2.1
 - [X] Exercise 2.2
 - [ ] Exercise 2.3
 - [X] Exercise 2.4
-- [ ] Exercise 2.5
+- [X] Exercise 2.5
 ** Chapter 3 [5/13]
 - [X] Exercise 3.1
 - [ ] Exercise 3.2
