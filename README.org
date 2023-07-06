@@ -38,8 +38,8 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [X] Exercise 3.11
 - [X] Exercise 3.12
 - [ ] Exercise 3.13
-** Chapter 4 [4/14]
-- [ ] Exercise 4.1
+** Chapter 4 [5/14]
+- [X] Exercise 4.1
 - [X] Exercise 4.2
 - [ ] Exercise 4.3
 - [ ] Exercise 4.4
