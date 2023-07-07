@@ -40,6 +40,21 @@ func (s *IntSet) UnionWith(t *IntSet) {
 	}
 }
 
+// Exercise 6.4 solution
+func (s *IntSet) Elems() []int {
+	var slice []int
+	for i, word := range s.words {
+		if word != 0 {
+			for j := 0; j < 64; j++ {
+				if word&(1<<uint(j)) != 0 {
+					slice = append(slice, 64*i+j)
+				}
+			}
+		}
+	}
+	return slice
+}
+
 func (s *IntSet) String() string {
 	var buf bytes.Buffer
 	buf.WriteByte('{')
