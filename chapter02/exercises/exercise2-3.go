@@ -1,4 +1,4 @@
-package main
+package exercises
 
 var pc [256]byte
 

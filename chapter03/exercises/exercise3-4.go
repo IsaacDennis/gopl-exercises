@@ -1,4 +1,4 @@
-package main
+package exercises
 
 import (
 	"fmt"
@@ -49,7 +49,6 @@ func corner(i, j int) (float64, float64) {
 
 	x := xyrange * (float64(i)/cells - 0.5)
 	y := xyrange * (float64(j)/cells - 0.5)
-
 
 	z := f(x, y)
 	sx := width/2 + (x-y)*cos30*xyscale

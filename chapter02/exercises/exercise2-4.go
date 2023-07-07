@@ -1,4 +1,4 @@
-package main
+package exercises
 
 func PopCount(x uint64) int {
 	var pop int

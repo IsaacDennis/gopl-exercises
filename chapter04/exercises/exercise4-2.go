@@ -1,12 +1,12 @@
-package main
+package exercises
 
 import (
-	"fmt"
 	"bufio"
 	"crypto/sha256"
 	"crypto/sha512"
-	"os"
 	"flag"
+	"fmt"
+	"os"
 )
 
 func main() {

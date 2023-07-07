@@ -1,9 +1,10 @@
-package main
+package exercises
+
 import "fmt"
 
 func comma(str string) string {
 	s := str
-	for i := len(s); i > 3; i = i-3 {
+	for i := len(s); i > 3; i = i - 3 {
 		s = s[:i-3] + "," + s[i-3:]
 	}
 	return s
