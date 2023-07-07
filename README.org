@@ -75,8 +75,8 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 5.17
 - [ ] Exercise 5.18
 - [ ] Exercise 5.19
-** Chapter 6 [2/5]
-- [ ] Exercise 6.1
+** Chapter 6 [3/5]
+- [X] Exercise 6.1
 - [X] Exercise 6.2
 - [ ] Exercise 6.3
 - [X] Exercise 6.4
