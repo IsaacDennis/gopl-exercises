@@ -55,9 +55,9 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [X] +Exercise 4.14+
 
   The features of exercises 4.10, 4.11 and 4.14 (related to the GitHub API) will be implemented in a future project.
-** Chapter 5 [1/19]
+** Chapter 5 [2/19]
 - [X] Exercise 5.1
-- [ ] Exercise 5.2
+- [X] Exercise 5.2
 - [ ] Exercise 5.3
 - [ ] Exercise 5.4
 - [ ] Exercise 5.5
