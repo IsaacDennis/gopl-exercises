@@ -38,7 +38,7 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [X] Exercise 3.11
 - [X] Exercise 3.12
 - [ ] Exercise 3.13
-** Chapter 4 [7/14]
+** Chapter 4 [8/14]
 - [X] Exercise 4.1
 - [X] Exercise 4.2
 - [X] Exercise 4.3
@@ -47,7 +47,7 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 4.6
 - [ ] Exercise 4.7
 - [ ] Exercise 4.8
-- [ ] Exercise 4.9
+- [X] Exercise 4.9
 - [X] +Exercise 4.10+
 - [X] +Exercise 4.11+
 - [ ] Exercise 4.12
