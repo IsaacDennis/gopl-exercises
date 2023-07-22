@@ -81,8 +81,8 @@ This repository contains examples and exercises solutions from [[https://www.gop
 - [ ] Exercise 6.3
 - [X] Exercise 6.4
 - [X] Exercise 6.5
-** Chapter 7 [0/18]
-- [ ] Exercise 7.1
+** Chapter 7 [1/18]
+- [X] Exercise 7.1
 - [ ] Exercise 7.2
 - [ ] Exercise 7.3
 - [ ] Exercise 7.4
